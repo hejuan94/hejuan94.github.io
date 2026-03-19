@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision.
 
  [**MetaScatter: Enabling High-Order Underwater Backscatter via Piezoelectric Metasurface**](https://chaof94.github.io/Papers/XX.pdf)
  
-**Juan He**, Jie Xiong, Wenhao Liu, Xuan Wang, Xiaoyan Wang, Na Chen, Chen Liu, Chunlong Fei, Chao Feng (Corresponding Author), Xiaojiang Chen
+**[Juan He]**, Jie Xiong, Wenhao Liu, Xuan Wang, Xiaoyan Wang, Na Chen, Chen Liu, Chunlong Fei, Chao Feng (Corresponding Author), Xiaojiang Chen
 
 **ACM Mobicom 2026 (CCF A)**
 
