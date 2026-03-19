@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision.
 # 📝 Publications 
 
 ## 🗞️ Conference
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div>< img src='images/XX.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div>< img src='images/MetaScatter.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  [**MetaScatter: Enabling High-Order Underwater Backscatter via Piezoelectric Metasurface**](https://chaof94.github.io/Papers/XX.pdf)
