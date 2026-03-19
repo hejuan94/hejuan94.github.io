@@ -27,12 +27,20 @@ My research interest includes neural machine translation and computer vision.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+## 🗞️ Conference
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div>< img src='images/XX.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+ [**MetaScatter: Enabling High-Order Underwater Backscatter via Piezoelectric Metasurface**](https://chaof94.github.io/Papers/XX.pdf)
+ 
+Juan He, Jie Xiong, Wenhao Liu, Xuan Wang, Xiaoyan Wang, Na Chen, Chen Liu, Chunlong Fei, **Chao Feng (Corresponding Author)**, Xiaojiang Chen
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**ACM Mobicom 2026 (CCF A)**
+
+- Underwater Backscatter.
+- Acoustic Metasurface.
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
