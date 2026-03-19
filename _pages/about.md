@@ -19,7 +19,7 @@ redirect_from:
 
 Juan He is now a PHD student at Northwest University.
 
-My research interest includes neural machine translation and computer vision.
+My research interest includes acoustic metasurfaces.
 
 
 # 🔥 News
