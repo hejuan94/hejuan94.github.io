@@ -33,7 +33,7 @@ My research interest includes acoustic metasurfaces.
 
  [**MetaScatter: Enabling High-Order Underwater Backscatter via Piezoelectric Metasurface**](https://hejuan94.github.io/Papers/XX.pdf)
  
-**[Juan He]**, Jie Xiong, Wenhao Liu, Xuan Wang, Xiaoyan Wang, Na Chen, Chen Liu, Chunlong Fei, Chao Feng (Corresponding Author), Xiaojiang Chen
+**[Juan He]**, Jie Xiong, Wenhao Liu, Xuan Wang, Xiaoyan Wang, Na Chen, Chen Liu, Chunlong Fei, Chao Feng, Xiaojiang Chen
 
 **ACM Mobicom 2026 (CCF A)**
 
@@ -42,7 +42,21 @@ My research interest includes acoustic metasurfaces.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div><img src='../images/CW-AcousLen.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div><img src='../images/MetaScatter.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">  
+
+ [**SuperEar: Eavesdropping on Mobile Voice Calls via Stealthy Acoustic Metamaterials**](https://hejuan94.github.io/Papers/XX.pdf)
+ 
+Zhiyuan Ning, Zhangyong Tang, **[Juan He]**, Weizhi Meng, Yuntian	Chen, Jie	Zhang, Zheng Wang
+
+**ACM WWW 2026 (CCF A)**
+
+- Acoustic Eavesdropping.
+- Acoustic Metamaterials.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div><img src='../images/SuperEar.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">  
 
  [**CW-AcousLen: A Configurable Wideband Acoustic Metasurface**](https://hejuan94.github.io/Papers/XX.pdf)
