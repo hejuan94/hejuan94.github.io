@@ -19,7 +19,7 @@ redirect_from:
 
 Juan He is now a PHD student at Northwest University.
 
-My research interests include acoustic metasurfaces for sensing, communication, and physical neural networks.
+My research focuses on acoustic metasurface-enabled sensing, communication, and physical neural networks for low-power and intelligent edge systems.
 
 
 # 🔥 News
