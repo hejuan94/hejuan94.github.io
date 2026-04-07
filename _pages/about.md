@@ -56,8 +56,22 @@ Zhiyuan Ning, Zhangyong Tang, **[Juan He]**, Weizhi Meng, Yuntian	Chen, Jie	Zhan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiSys 2024</div><img src='../images/CW-AcousLen.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensys 2026 Poster</div><img src='../images/MetaTrack.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">  
+
+ [**Poster Abstract: A Configurable Piezoelectric Acoustic Metasurface for Real-Time Tracking**](https://hejuan94.github.io/Papers/XX.pdf)
+ 
+**[Juan He]**, Hao Yu, Jiameng Bai, Chen Liu, Xiaoqing Gong, Chao Feng
+
+**ACM Sensys Poster 2026 (CCF B)**
+
+- Piezoelectric Metasurface.
+- Real-time Tracking.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiSys 2024</div><img src='../images/CW-AcousLen.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1"> 
 
  [**CW-AcousLen: A Configurable Wideband Acoustic Metasurface**](https://hejuan94.github.io/Papers/XX.pdf)
  
