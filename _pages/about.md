@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# About Me
 
 Juan He is now a PhD student at Northwest University, under the supervision of Prof. Xiaojiang Chen.
 
