@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Juan He is now a PhD student at Northwest University.
+Juan He is now a PhD student at Northwest University, under the supervision of Prof. Xiaojiang Chen.
 
 My research focuses on acoustic metasurface-enabled sensing, communication, and physical neural networks for low-power and intelligent edge systems.
 
