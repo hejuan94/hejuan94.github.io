@@ -42,7 +42,7 @@ My research interest includes acoustic metasurfaces.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div><img src='../images/MetaScatter.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='../images/MetaScatter.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">  
 
  [**SuperEar: Eavesdropping on Mobile Voice Calls via Stealthy Acoustic Metamaterials**](https://hejuan94.github.io/Papers/XX.pdf)
@@ -56,7 +56,7 @@ Zhiyuan Ning, Zhangyong Tang, **[Juan He]**, Weizhi Meng, Yuntian	Chen, Jie	Zhan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div><img src='../images/SuperEar.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiSys 2026</div><img src='../images/SuperEar.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">  
 
  [**CW-AcousLen: A Configurable Wideband Acoustic Metasurface**](https://hejuan94.github.io/Papers/XX.pdf)
@@ -71,7 +71,7 @@ Zhiyuan Ning, Zhangyong Tang, **[Juan He]**, Weizhi Meng, Yuntian	Chen, Jie	Zhan
 </div>
 
 ## 📑 Journal
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div><img src='../images/MetaAttack.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='../images/MetaAttack.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">  
 
  [**A Portable and Stealthy Inaudible Voice Attack Based on Acoustic Metamaterials**](https://hejuan94.github.io/Papers/XX.pdf)
