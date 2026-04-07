@@ -25,7 +25,8 @@ My research focuses on acoustic metasurface-enabled sensing, communication, and 
 🔥🔥🔥 I am currently seeking a postdoctoral research opportunity. Please feel free to reach out if you know any suitable openings. [*hejuan@stumail.nwu.edu.cn*].
 
 # 🔥 News
-- *2026.01*: 🎉🎉 Our work **Metascatter** is accepted by Mobicom 2026. 
+- *2026.01*: 🎉🎉🎉 Our work **SuperEar** is accepted by WWW 2026.
+- *2026.01*: 🎉🎉🎉 Our work **Metascatter** is accepted by Mobicom 2026. 
 
 # 📝 Publications 
 
