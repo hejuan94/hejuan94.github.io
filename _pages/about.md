@@ -26,6 +26,10 @@ I also explore acoustic metasurfaces for secure voice interaction, leveraging lo
 
 🔥🔥🔥 I am currently seeking a postdoctoral research opportunity. Please feel free to reach out if you know any suitable openings. You can contact me at [**hejuan@stumail.nwu.edu.cn**].
 
+<p style="color:red;">
+I am currently seeking a postdoctoral research opportunity. Please feel free to reach out if you know any suitable openings. You can contact me at <strong>hejuan@stumail.nwu.edu.cn</strong>.
+</p>
+
 # 🔥 News
 - *2026.01*: 🎉🎉🎉 Our work **SuperEar** is accepted by WWW 2026.
 - *2026.01*: 🎉🎉🎉 Our work **MetaScatter** is accepted by Mobicom 2026. 
