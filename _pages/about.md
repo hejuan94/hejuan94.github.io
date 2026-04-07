@@ -108,6 +108,4 @@ Zhiyuan Ning(Equal Contribution), **[Juan He (Equal Contribution)]** , Zhanyong 
 - *2019.06 - now*, PhD in Software Engineering (Supervisor: Xiaojiang Chen), Northwest University.
 - *2017.09 - 2019.06*, Master in Software Engineering (Supervisor: Xiaojiang Chen), Northwest University.
 
-# 💬 Invited Talks
 
-# 💻 Internships
