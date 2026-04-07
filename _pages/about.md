@@ -56,7 +56,7 @@ Zhiyuan Ning, Zhangyong Tang, **[Juan He]**, Weizhi Meng, Yuntian	Chen, Jie	Zhan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiSys 2026</div><img src='../images/CW-AcousLen.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiSys 2024</div><img src='../images/CW-AcousLen.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">  
 
  [**CW-AcousLen: A Configurable Wideband Acoustic Metasurface**](https://hejuan94.github.io/Papers/XX.pdf)
