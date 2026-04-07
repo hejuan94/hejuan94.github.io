@@ -21,6 +21,7 @@ redirect_from:
 Juan He is now a PhD student at Northwest University, under the supervision of Prof. Xiaojiang Chen.
 
 My research focuses on acoustic metasurface-enabled sensing, communication, and physical neural networks for low-power and intelligent edge systems.
+
 🔥🔥🔥 I am currently seeking a postdoctoral research opportunity. If you have a suitable opportunity or know of any openings, please feel free to contact me [*hejuan@stumail.nwu.edu.cn*].
 
 # 🔥 News
