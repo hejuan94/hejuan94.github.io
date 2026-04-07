@@ -24,7 +24,7 @@ My research focuses on acoustic metasurface-enabled sensing, communication, and 
 I develop real-world metasurface systems for wideband acoustic sensing, high-throughput underwater backscatter communication, and in-situ physical neural networks, enabling the co-design of sensing, communication, and computation within the physical environment.
 I also explore acoustic metasurfaces for secure voice interaction, leveraging low-cost 3D-printed passive metamaterials to reveal vulnerabilities in speech systems.
 
-🔥🔥🔥 I am currently seeking a postdoctoral research opportunity. Please feel free to reach out if you know any suitable openings. My email is [*hejuan@stumail.nwu.edu.cn*].
+🔥🔥🔥 I am currently seeking a postdoctoral research opportunity. Please feel free to reach out if you know any suitable openings. You can contact me at [*hejuan@stumail.nwu.edu.cn*].
 
 # 🔥 News
 - *2026.01*: 🎉🎉🎉 Our work **SuperEar** is accepted by WWW 2026.
