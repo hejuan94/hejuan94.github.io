@@ -22,7 +22,7 @@ Juan He is now a PhD student at Northwest University, under the supervision of P
 
 My research focuses on acoustic metasurface-enabled sensing, communication, and physical neural networks for low-power and intelligent edge systems.
 
-🔥🔥🔥 I am currently seeking a postdoctoral research opportunity. If you have a suitable opportunity or know of any openings, please feel free to contact me [*hejuan@stumail.nwu.edu.cn*].
+🔥🔥🔥 I am currently seeking a postdoctoral research opportunity. Please feel free to reach out if you know any suitable openings. [*hejuan@stumail.nwu.edu.cn*].
 
 # 🔥 News
 - *2026.01*: 🎉🎉 Our work **Metascatter** is accepted by Mobicom 2026. 
