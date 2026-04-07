@@ -21,7 +21,7 @@ redirect_from:
 I am now a PhD student at Northwest University, under the supervision of Prof. Xiaojiang Chen.
 
 My research focuses on acoustic metasurface-enabled sensing, communication, and physical neural networks for low-power and intelligent edge systems.
-I develop real-world metasurface systems for wideband acoustic sensing, low-power, high-throughput underwater backscatter communication, and in-situ physical neural networks, enabling the co-design of sensing, communication, and computation within the physical environment.
+I develop real-world metasurface systems for wideband acoustic sensing, high-throughput underwater backscatter communication, and in-situ physical neural networks, enabling the co-design of sensing, communication, and computation within the physical environment.
 I also explore acoustic metasurfaces for secure voice interaction, leveraging low-cost 3D-printed passive metamaterials to reveal vulnerabilities in speech systems.
 
 🔥🔥🔥 I am currently seeking a postdoctoral research opportunity. Please feel free to reach out if you know any suitable openings. [*hejuan@stumail.nwu.edu.cn*].
