@@ -28,7 +28,21 @@ My research interest includes acoustic metasurfaces.
 # 📝 Publications 
 
 ## 🗞️ Conference
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div><img src='../images/MetaScatter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div><img src='../images/MetaScatter.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">  
+
+ [**MetaScatter: Enabling High-Order Underwater Backscatter via Piezoelectric Metasurface**](https://hejuan94.github.io/Papers/XX.pdf)
+ 
+**[Juan He]**, Jie Xiong, Wenhao Liu, Xuan Wang, Xiaoyan Wang, Na Chen, Chen Liu, Chunlong Fei, Chao Feng (Corresponding Author), Xiaojiang Chen
+
+**ACM Mobicom 2026 (CCF A)**
+
+- Underwater Backscatter.
+- Acoustic Metasurface.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div><img src='../images/MetaScatter.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">  
 
  [**MetaScatter: Enabling High-Order Underwater Backscatter via Piezoelectric Metasurface**](https://hejuan94.github.io/Papers/XX.pdf)
