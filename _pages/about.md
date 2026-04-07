@@ -56,6 +56,20 @@ My research interest includes acoustic metasurfaces.
 </div>
 </div>
 
+## 📑 Journal
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div><img src='../images/MetaAttack.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">  
+
+ [**A Portable and Stealthy Inaudible Voice Attack Based on Acoustic Metamaterials**](https://hejuan94.github.io/Papers/XX.pdf)
+ 
+Zhiyuan Ning(Equal Contribution), **[Juan He (Equal Contribution)]** , Zhanyong Tang , Weihang Hu , and Xiaojiang Chen
+
+**TIFS 2025 (CCF A)**
+
+- Acoustic Metamaterials.
+- Inaudible Voice Attack.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 
