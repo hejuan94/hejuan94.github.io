@@ -105,8 +105,6 @@ Zhiyuan Ning(Equal Contribution), **[Juan He (Equal Contribution)]** , Zhanyong 
 </div>
 </div>
 
-# 🎖 Honors and Awards
-
 
 # 📖 Educations
 - *2019.06 - now*, PhD in Software Engineering (Supervisor: Xiaojiang Chen), Northwest University.
