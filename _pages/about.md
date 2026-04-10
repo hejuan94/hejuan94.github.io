@@ -61,6 +61,7 @@ Zhiyuan Ning, Zhangyong Tang, **[Juan He]**, Weizhi Meng, Yuntian	Chen, Jie	Zhan
 - Acoustic Eavesdropping.
 - Acoustic Metamaterials.
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensys 2026 Poster</div><img src='../images/MetaTrack.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">  
