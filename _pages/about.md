@@ -51,7 +51,7 @@ I also explore acoustic metasurfaces for secure voice interaction, leveraging lo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='../images/SuperEar.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">  
 
- [**SuperEar: Eavesdropping on Mobile Voice Calls via Stealthy Acoustic Metamaterials**](https://github.com/hejuan94/hejuan94.github.io/edit/main/_data/5-SuperEar_WWW2026.pdf)
+ [**SuperEar: Eavesdropping on Mobile Voice Calls via Stealthy Acoustic Metamaterials**](../docs/5-SuperEar_WWW2026.pdf)
  
 Zhiyuan Ning, Zhangyong Tang, **[Juan He]**, Weizhi Meng, Yuntian	Chen, Jie	Zhang, Zheng Wang
 
@@ -65,7 +65,7 @@ Zhiyuan Ning, Zhangyong Tang, **[Juan He]**, Weizhi Meng, Yuntian	Chen, Jie	Zhan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensys 2026 Poster</div><img src='../images/MetaTrack.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">  
 
- [**Poster Abstract: A Configurable Piezoelectric Acoustic Metasurface for Real-Time Tracking**](https://github.com/hejuan94/hejuan94.github.io/edit/main/_data/4-Sensys_Poster.pdf)
+ [**Poster Abstract: A Configurable Piezoelectric Acoustic Metasurface for Real-Time Tracking**](../docs/4-Sensys_Poster.pdf)
  
 **[Juan He]**, Hao Yu, Jiameng Bai, Chen Liu, Xiaoqing Gong, Chao Feng
 
@@ -79,7 +79,7 @@ Zhiyuan Ning, Zhangyong Tang, **[Juan He]**, Weizhi Meng, Yuntian	Chen, Jie	Zhan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiSys 2024</div><img src='../images/CW-AcousLen.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
- [**CW-AcousLen: A Configurable Wideband Acoustic Metasurface**](https://hejuan94.github.io/Papers/XX.pdf)
+ [**CW-AcousLen: A Configurable Wideband Acoustic Metasurface**](../docs/2-MobiSys2024_CW_AcousLen.pdf)
  
 **[Juan He]**, Jie Xiong, Weihang Hu, Chao Feng, Enjie Yao, Xiaojing Wang, Chen Liu, Xiaojiang Chen
 
@@ -94,7 +94,7 @@ Zhiyuan Ning, Zhangyong Tang, **[Juan He]**, Weizhi Meng, Yuntian	Chen, Jie	Zhan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2025</div><img src='../images/MetaAttack.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">  
 
- [**A Portable and Stealthy Inaudible Voice Attack Based on Acoustic Metamaterials**](https://hejuan94.github.io/Papers/XX.pdf)
+ [**A Portable and Stealthy Inaudible Voice Attack Based on Acoustic Metamaterials**](../docs/3-TIFS_MetaAttack.pdf)
  
 Zhiyuan Ning(Equal Contribution), **[Juan He (Equal Contribution)]** , Zhanyong Tang , Weihang Hu , and Xiaojiang Chen
 
