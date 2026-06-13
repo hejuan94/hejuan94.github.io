@@ -51,7 +51,7 @@ I also explore acoustic metasurfaces for secure voice interaction, leveraging lo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='../images/SuperEar.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">  
 
- [**SuperEar: Eavesdropping on Mobile Voice Calls via Stealthy Acoustic Metamaterials**](https://hejuan94.github.io/Papers/XX.pdf)
+ [**SuperEar: Eavesdropping on Mobile Voice Calls via Stealthy Acoustic Metamaterials**]([https://hejuan94.github.io](https://github.com/hejuan94/hejuan94.github.io/edit/main/_data/2-MobiSys2024_CW_AcousLen.pdf)
  
 Zhiyuan Ning, Zhangyong Tang, **[Juan He]**, Weizhi Meng, Yuntian	Chen, Jie	Zhang, Zheng Wang
 
