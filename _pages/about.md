@@ -36,7 +36,7 @@ I also explore acoustic metasurfaces for secure voice interaction, leveraging lo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom 2026</div><img src='../images/MetaScatter.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">  
 
- [**MetaScatter: Enabling High-Order Underwater Backscatter via Piezoelectric Metasurface**](https://hejuan94.github.io/_data/1-Mobicom2026_MetaScatter.pdf)
+ [**MetaScatter: Enabling High-Order Underwater Backscatter via Piezoelectric Metasurface**]([https://hejuan94.github.io](https://github.com/hejuan94/hejuan94.github.io/edit/main/_data/1-Mobicom2026_MetaScatter.pdf)
  
  
 **[Juan He]**, Jie Xiong, Wenhao Liu, Xuan Wang, Xiaoyan Wang, Na Chen, Chen Liu, Chunlong Fei, Chao Feng, Xiaojiang Chen
