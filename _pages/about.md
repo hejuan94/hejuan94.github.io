@@ -65,7 +65,7 @@ Zhiyuan Ning, Zhangyong Tang, **[Juan He]**, Weizhi Meng, Yuntian	Chen, Jie	Zhan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensys 2026 Poster</div><img src='../images/MetaTrack.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">  
 
- [**Poster Abstract: A Configurable Piezoelectric Acoustic Metasurface for Real-Time Tracking**](https://hejuan94.github.io/Papers/XX.pdf)
+ [**Poster Abstract: A Configurable Piezoelectric Acoustic Metasurface for Real-Time Tracking**](https://github.com/hejuan94/hejuan94.github.io/edit/main/_data/4-Sensys_Poster.pdf)
  
 **[Juan He]**, Hao Yu, Jiameng Bai, Chen Liu, Xiaoqing Gong, Chao Feng
 
