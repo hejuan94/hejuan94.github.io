@@ -110,7 +110,7 @@ Zhiyuan Ning(Equal Contribution), **[Juan He (Equal Contribution)]** , Zhanyong 
 
 
 # 📖 Research Experience
-- *2019.09 - now*, PhD in Software Engineering (Supervisor: Xiaojiang Chen), Northwest University.
+- *2019.09 - 2026.06, PhD in Software Engineering (Supervisor: Xiaojiang Chen), Northwest University.
 - *2017.09 - 2019.06*, Master in Software Engineering (Supervisor: Xiaojiang Chen), Northwest University.
 
 # 🛠️ Technical Skills
