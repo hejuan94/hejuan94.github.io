@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I recently received my PhD degree PhD student at Northwest University, under the supervision of Prof. Xiaojiang Chen.
+I recently received my PhD degree at Northwest University, under the supervision of Prof. Xiaojiang Chen.
 
 My research focuses on acoustic metasurface-enabled sensing, communication, and physical neural networks for low-power and intelligent edge systems.
 I develop real-world metasurface systems for wideband acoustic sensing, high-throughput underwater backscatter communication, and in-situ physical neural networks, enabling the co-design of sensing, communication, and computation within the physical environment.
