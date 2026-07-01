@@ -105,9 +105,6 @@ Zhiyuan Ning(Equal Contribution), **[Juan He (Equal Contribution)]** , Zhanyong 
 </div>
 </div>
 
-## 📜 Patents
-
-
 
 # 📖 Research Experience
 - *2019.09 - 2026.06, PhD in Software Engineering (Supervisor: Xiaojiang Chen), Northwest University.
