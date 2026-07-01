@@ -106,8 +106,13 @@ Zhiyuan Ning(Equal Contribution), **[Juan He (Equal Contribution)]** , Zhanyong 
 </div>
 
 
-# 📖 Educations
+# 📖 Research Experience
 - *2019.09 - now*, PhD in Software Engineering (Supervisor: Xiaojiang Chen), Northwest University.
 - *2017.09 - 2019.06*, Master in Software Engineering (Supervisor: Xiaojiang Chen), Northwest University.
 
+# 📖 Technical Skills
+- Ultrasonic Devices & Fabrication: Piezoelectric Metasurface Design and Fabrication, PZT Array Prototyping, COMSOL-based Device Simulation.
+- Hardware Control Systems: FPGA/MCU-based Embedded Systems, Real-Time Beam Control.
+- Signal Processing: Ultrasonic Beamforming, Physiological Monitoring, Physical Neural Networks.
+- Programming: MATLAB, Python, C++.
 
