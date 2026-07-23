@@ -63,6 +63,20 @@ Zhiyuan Ning, Zhangyong Tang, **[Juan He]**, Weizhi Meng, Yuntian	Chen, Jie	Zhan
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiSys 2024</div><img src='../images/CW-AcousLen.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+ [**CW-AcousLen: A Configurable Wideband Acoustic Metasurface**](../docs/2-MobiSys2024_CW_AcousLen.pdf)
+ 
+**[Juan He]**, Jie Xiong, Weihang Hu, Chao Feng, Enjie Yao, Xiaojing Wang, Chen Liu, Xiaojiang Chen
+
+**ACM Mobisys 2024 (CCF B)**
+
+- Acoustic Metasurface.
+- Acoustic Sensing.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensys 2026 Poster</div><img src='../images/MetaTrack.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">  
 
@@ -77,19 +91,6 @@ Zhiyuan Ning, Zhangyong Tang, **[Juan He]**, Weizhi Meng, Yuntian	Chen, Jie	Zhan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiSys 2024</div><img src='../images/CW-AcousLen.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1"> 
-
- [**CW-AcousLen: A Configurable Wideband Acoustic Metasurface**](../docs/2-MobiSys2024_CW_AcousLen.pdf)
- 
-**[Juan He]**, Jie Xiong, Weihang Hu, Chao Feng, Enjie Yao, Xiaojing Wang, Chen Liu, Xiaojiang Chen
-
-**ACM Mobisys 2024 (CCF B)**
-
-- Acoustic Metasurface.
-- Acoustic Sensing.
-</div>
-</div>
 
 ## 📑 Journal
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='../images/TMC2026.jpg' alt="sym" width="80%"></div></div>
