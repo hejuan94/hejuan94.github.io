@@ -96,7 +96,7 @@ Zhiyuan Ning, Zhangyong Tang, **[Juan He]**, Weizhi Meng, Yuntian	Chen, Jie	Zhan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='../images/TMC2026.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">  
 
- [**Wideband and Configurable Acoustic Metasurface for Enhanced Acoustic Sensing and Communication**](https://ieeexplore.ieee.org/document/11622715)
+ [**Wideband and Configurable Acoustic Metasurface for Enhanced Acoustic Sensing and Communication**](../docs/6-TMC2026.pdf)
 **[Juan He]**, Jie Xiong, Weihang Hu, Chao Feng, Enjie Yao, Xiaojing Wang, Chen Liu, Xiaojiang Chen
 
 **TMC 2026 (CCF A)**
